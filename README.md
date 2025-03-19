@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ShraddhaS007/Leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/ShraddhaS007/Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/ShraddhaS007/Leetcode/tree/master/0031-next-permutation) |
 | [1753-path-with-minimum-effort](https://github.com/ShraddhaS007/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2227-sum-of-subarray-ranges](https://github.com/ShraddhaS007/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ShraddhaS007/Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/ShraddhaS007/Leetcode/tree/master/0031-next-permutation) |
 ## Monotonic Stack
 |  |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ShraddhaS007/Leetcode/tree/master/0001-two-sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/ShraddhaS007/Leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
