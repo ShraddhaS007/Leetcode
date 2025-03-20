@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ShraddhaS007/Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/ShraddhaS007/Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/ShraddhaS007/Leetcode/tree/master/0031-next-permutation) |
+| [0054-spiral-matrix](https://github.com/ShraddhaS007/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ShraddhaS007/Leetcode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/ShraddhaS007/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1753-path-with-minimum-effort](https://github.com/ShraddhaS007/Leetcode/tree/master/1753-path-with-minimum-effort) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ShraddhaS007/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ShraddhaS007/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1753-path-with-minimum-effort](https://github.com/ShraddhaS007/Leetcode/tree/master/1753-path-with-minimum-effort) |
 ## String
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/ShraddhaS007/Leetcode/tree/master/0055-jump-game) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/ShraddhaS007/Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
