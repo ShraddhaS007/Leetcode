@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ShraddhaS007/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1753-path-with-minimum-effort](https://github.com/ShraddhaS007/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2227-sum-of-subarray-ranges](https://github.com/ShraddhaS007/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
+| [3430-count-days-without-meetings](https://github.com/ShraddhaS007/Leetcode/tree/master/3430-count-days-without-meetings) |
 ## Binary Search
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/ShraddhaS007/Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/ShraddhaS007/Leetcode/tree/master/0075-sort-colors) |
+| [3430-count-days-without-meetings](https://github.com/ShraddhaS007/Leetcode/tree/master/3430-count-days-without-meetings) |
 ## Dynamic Programming
 |  |
 | ------- |
