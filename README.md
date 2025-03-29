@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ShraddhaS007/Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/ShraddhaS007/Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/ShraddhaS007/Leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/ShraddhaS007/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ShraddhaS007/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ShraddhaS007/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ShraddhaS007/Leetcode/tree/master/0055-jump-game) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShraddhaS007/Leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ShraddhaS007/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/ShraddhaS007/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ShraddhaS007/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [2227-sum-of-subarray-ranges](https://github.com/ShraddhaS007/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
@@ -69,11 +71,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ShraddhaS007/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/ShraddhaS007/Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/ShraddhaS007/Leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/ShraddhaS007/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ShraddhaS007/Leetcode/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/ShraddhaS007/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ShraddhaS007/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/ShraddhaS007/Leetcode/tree/master/0496-next-greater-element-i) |
 | [2227-sum-of-subarray-ranges](https://github.com/ShraddhaS007/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 ## Hash Table
@@ -98,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ShraddhaS007/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/ShraddhaS007/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ShraddhaS007/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ShraddhaS007/Leetcode/tree/master/0055-jump-game) |
 ## Greedy
