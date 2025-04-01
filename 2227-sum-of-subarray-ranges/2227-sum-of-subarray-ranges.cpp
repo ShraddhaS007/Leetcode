@@ -1,17 +1,72 @@
 class Solution {
 public:
-    long long subArrayRanges(vector<int>& nums) {
-        int n=nums.size();
-        long long int maxi,mini,c=0;
-        for(int i=0;i<n-1;i++){
-            mini=nums[i];
-            maxi=nums[i];
-            for(int j=i+1;j<n;j++){
-                if(maxi<nums[j]) maxi=nums[j];
-                if(mini>nums[j]) mini=nums[j];
-                c+=maxi-mini;
-            }
+
+    long long minf(vector<int> &arr){
+        // int N=1e9+7;
+        int n=arr.size();
+        vector<int> lm(n,-1);
+        vector<int> rm(n,n);
+   
+        stack<pair<int,int>> s1;
+        stack<pair<int,int>> s2;
+        
+        s1.push({arr[0],0});
+        s2.push({arr[n-1],n-1});
+        for(int i=1;i<n;i++){
+          while(!s1.empty() && arr[i]<(s1.top()).first){
+            rm[(s1.top()).second]=i;
+            s1.pop();
+          }
+          s1.push({arr[i],i});
         }
-        return c;
+        for(int i=n-2;i>=0;i--){
+          while(!s2.empty() && arr[i]<=(s2.top()).first){
+            lm[(s2.top()).second]=i;
+            s2.pop();
+          }
+          s2.push({arr[i],i});
+        }
+         long long int s=0;
+        for(int i=0;i<n;i++){
+           s = (s + (1LL * (i - lm[i]) * (rm[i] - i)* arr[i]) );
+
+        }
+        return s;
+
+    }
+
+    long long maxf(vector<int>&arr){
+        int n=arr.size();
+        vector<int> lm(n,-1);
+        vector<int> rm(n,n);
+   
+        stack<pair<int,int>> s1;
+        stack<pair<int,int>> s2;
+        
+        s1.push({arr[0],0});
+        s2.push({arr[n-1],n-1});
+        for(int i=1;i<n;i++){
+          while(!s1.empty() && arr[i]>(s1.top()).first){
+            rm[(s1.top()).second]=i;
+            s1.pop();
+          }
+          s1.push({arr[i],i});
+        }
+        for(int i=n-2;i>=0;i--){
+          while(!s2.empty() && arr[i]>=(s2.top()).first){
+            lm[(s2.top()).second]=i;
+            s2.pop();
+          }
+          s2.push({arr[i],i});
+        }
+         long long int s=0;
+        for(int i=0;i<n;i++){
+           s = (s + (1LL * (i - lm[i]) * (rm[i] - i) * arr[i] ) ) ;
+
+        }
+        return s;
+    }
+    long long subArrayRanges(vector<int>& nums) {
+        return maxf(nums)-minf(nums);
     }
 };
