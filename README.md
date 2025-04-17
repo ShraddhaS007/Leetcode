@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ShraddhaS007/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0494-target-sum](https://github.com/ShraddhaS007/Leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/ShraddhaS007/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0518-coin-change-ii](https://github.com/ShraddhaS007/Leetcode/tree/master/0518-coin-change-ii) |
 | [0735-asteroid-collision](https://github.com/ShraddhaS007/Leetcode/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/ShraddhaS007/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1753-path-with-minimum-effort](https://github.com/ShraddhaS007/Leetcode/tree/master/1753-path-with-minimum-effort) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ShraddhaS007/Leetcode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/ShraddhaS007/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0494-target-sum](https://github.com/ShraddhaS007/Leetcode/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/ShraddhaS007/Leetcode/tree/master/0518-coin-change-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/ShraddhaS007/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 ## Greedy
 |  |
