@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShraddhaS007/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/ShraddhaS007/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/ShraddhaS007/Leetcode/tree/master/0020-valid-parentheses) |
+| [0038-count-and-say](https://github.com/ShraddhaS007/Leetcode/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/ShraddhaS007/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0402-remove-k-digits](https://github.com/ShraddhaS007/Leetcode/tree/master/0402-remove-k-digits) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ShraddhaS007/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
