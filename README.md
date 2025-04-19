@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/ShraddhaS007/Leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/ShraddhaS007/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/ShraddhaS007/Leetcode/tree/master/0518-coin-change-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/ShraddhaS007/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/ShraddhaS007/Leetcode/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/ShraddhaS007/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1753-path-with-minimum-effort](https://github.com/ShraddhaS007/Leetcode/tree/master/1753-path-with-minimum-effort) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ShraddhaS007/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/ShraddhaS007/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0496-next-greater-element-i](https://github.com/ShraddhaS007/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/ShraddhaS007/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/ShraddhaS007/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Sorting
 |  |
@@ -178,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/ShraddhaS007/Leetcode/tree/master/0494-target-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/ShraddhaS007/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
