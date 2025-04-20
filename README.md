@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/ShraddhaS007/Leetcode/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/ShraddhaS007/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/ShraddhaS007/Leetcode/tree/master/0735-asteroid-collision) |
+| [0797-rabbits-in-forest](https://github.com/ShraddhaS007/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0943-sum-of-subarray-minimums](https://github.com/ShraddhaS007/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1753-path-with-minimum-effort](https://github.com/ShraddhaS007/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ShraddhaS007/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/ShraddhaS007/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0496-next-greater-element-i](https://github.com/ShraddhaS007/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/ShraddhaS007/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0797-rabbits-in-forest](https://github.com/ShraddhaS007/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/ShraddhaS007/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Sorting
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/ShraddhaS007/Leetcode/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/ShraddhaS007/Leetcode/tree/master/0402-remove-k-digits) |
+| [0797-rabbits-in-forest](https://github.com/ShraddhaS007/Leetcode/tree/master/0797-rabbits-in-forest) |
 ## Simulation
 |  |
 | ------- |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0797-rabbits-in-forest](https://github.com/ShraddhaS007/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ShraddhaS007/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Quickselect
 |  |
