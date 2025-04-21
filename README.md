@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ShraddhaS007/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2227-sum-of-subarray-ranges](https://github.com/ShraddhaS007/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2249-count-the-hidden-sequences](https://github.com/ShraddhaS007/Leetcode/tree/master/2249-count-the-hidden-sequences) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/ShraddhaS007/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/ShraddhaS007/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/ShraddhaS007/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/ShraddhaS007/Leetcode/tree/master/3430-count-days-without-meetings) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ShraddhaS007/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ShraddhaS007/Leetcode/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/ShraddhaS007/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/ShraddhaS007/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/ShraddhaS007/Leetcode/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/ShraddhaS007/Leetcode/tree/master/0735-asteroid-collision) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/ShraddhaS007/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
 | ------- |
