@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/ShraddhaS007/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ShraddhaS007/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2227-sum-of-subarray-ranges](https://github.com/ShraddhaS007/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
+| [2249-count-the-hidden-sequences](https://github.com/ShraddhaS007/Leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/ShraddhaS007/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/ShraddhaS007/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/ShraddhaS007/Leetcode/tree/master/3430-count-days-without-meetings) |
@@ -188,4 +189,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ShraddhaS007/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [2249-count-the-hidden-sequences](https://github.com/ShraddhaS007/Leetcode/tree/master/2249-count-the-hidden-sequences) |
 <!---LeetCode Topics End-->
