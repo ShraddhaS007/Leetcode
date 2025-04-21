@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ShraddhaS007/Leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ShraddhaS007/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ShraddhaS007/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ShraddhaS007/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShraddhaS007/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/ShraddhaS007/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/ShraddhaS007/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ShraddhaS007/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ShraddhaS007/Leetcode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/ShraddhaS007/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ShraddhaS007/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0494-target-sum](https://github.com/ShraddhaS007/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ShraddhaS007/Leetcode/tree/master/0518-coin-change-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/ShraddhaS007/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
