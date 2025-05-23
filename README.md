@@ -43,10 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/ShraddhaS007/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/ShraddhaS007/Leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/ShraddhaS007/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/ShraddhaS007/Leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Union Find
 |  |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShraddhaS007/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/ShraddhaS007/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/ShraddhaS007/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/ShraddhaS007/Leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Matrix
 |  |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShraddhaS007/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0494-target-sum](https://github.com/ShraddhaS007/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ShraddhaS007/Leetcode/tree/master/0518-coin-change-ii) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/ShraddhaS007/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0943-sum-of-subarray-minimums](https://github.com/ShraddhaS007/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 ## Greedy
 |  |
@@ -195,4 +199,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ShraddhaS007/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2249-count-the-hidden-sequences](https://github.com/ShraddhaS007/Leetcode/tree/master/2249-count-the-hidden-sequences) |
+## Graph
+|  |
+| ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/ShraddhaS007/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+## Shortest Path
+|  |
+| ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/ShraddhaS007/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
