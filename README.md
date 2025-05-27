@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/ShraddhaS007/Leetcode/tree/master/0402-remove-k-digits) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ShraddhaS007/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ShraddhaS007/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1508-longest-happy-prefix](https://github.com/ShraddhaS007/Leetcode/tree/master/1508-longest-happy-prefix) |
 ## Stack
 |  |
 | ------- |
@@ -215,4 +216,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-network-delay-time](https://github.com/ShraddhaS007/Leetcode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ShraddhaS007/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+## Rolling Hash
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/ShraddhaS007/Leetcode/tree/master/1508-longest-happy-prefix) |
+## String Matching
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/ShraddhaS007/Leetcode/tree/master/1508-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/ShraddhaS007/Leetcode/tree/master/1508-longest-happy-prefix) |
 <!---LeetCode Topics End-->
