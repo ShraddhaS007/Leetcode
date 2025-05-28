@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/ShraddhaS007/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0402-remove-k-digits](https://github.com/ShraddhaS007/Leetcode/tree/master/0402-remove-k-digits) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ShraddhaS007/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1250-longest-common-subsequence](https://github.com/ShraddhaS007/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ShraddhaS007/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1508-longest-happy-prefix](https://github.com/ShraddhaS007/Leetcode/tree/master/1508-longest-happy-prefix) |
 ## Stack
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/ShraddhaS007/Leetcode/tree/master/0518-coin-change-ii) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ShraddhaS007/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0943-sum-of-subarray-minimums](https://github.com/ShraddhaS007/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [1250-longest-common-subsequence](https://github.com/ShraddhaS007/Leetcode/tree/master/1250-longest-common-subsequence) |
 ## Greedy
 |  |
 | ------- |
