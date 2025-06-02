@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ShraddhaS007/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/ShraddhaS007/Leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/ShraddhaS007/Leetcode/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/ShraddhaS007/Leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/ShraddhaS007/Leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/ShraddhaS007/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/ShraddhaS007/Leetcode/tree/master/0115-distinct-subsequences) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ShraddhaS007/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/ShraddhaS007/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/ShraddhaS007/Leetcode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/ShraddhaS007/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ShraddhaS007/Leetcode/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/ShraddhaS007/Leetcode/tree/master/0072-edit-distance) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/ShraddhaS007/Leetcode/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/ShraddhaS007/Leetcode/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/ShraddhaS007/Leetcode/tree/master/0402-remove-k-digits) |
 | [0797-rabbits-in-forest](https://github.com/ShraddhaS007/Leetcode/tree/master/0797-rabbits-in-forest) |
@@ -242,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0214-shortest-palindrome](https://github.com/ShraddhaS007/Leetcode/tree/master/0214-shortest-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/ShraddhaS007/Leetcode/tree/master/1508-longest-happy-prefix) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/ShraddhaS007/Leetcode/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
