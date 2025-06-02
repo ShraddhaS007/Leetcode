@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ShraddhaS007/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/ShraddhaS007/Leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/ShraddhaS007/Leetcode/tree/master/0038-count-and-say) |
+| [0072-edit-distance](https://github.com/ShraddhaS007/Leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/ShraddhaS007/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/ShraddhaS007/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0214-shortest-palindrome](https://github.com/ShraddhaS007/Leetcode/tree/master/0214-shortest-palindrome) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ShraddhaS007/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ShraddhaS007/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ShraddhaS007/Leetcode/tree/master/0055-jump-game) |
+| [0072-edit-distance](https://github.com/ShraddhaS007/Leetcode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/ShraddhaS007/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/ShraddhaS007/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShraddhaS007/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
