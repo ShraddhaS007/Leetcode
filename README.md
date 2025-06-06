@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/ShraddhaS007/Leetcode/tree/master/0735-asteroid-collision) |
 | [0797-rabbits-in-forest](https://github.com/ShraddhaS007/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0943-sum-of-subarray-minimums](https://github.com/ShraddhaS007/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [1129-longest-string-chain](https://github.com/ShraddhaS007/Leetcode/tree/master/1129-longest-string-chain) |
 | [1753-path-with-minimum-effort](https://github.com/ShraddhaS007/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ShraddhaS007/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2227-sum-of-subarray-ranges](https://github.com/ShraddhaS007/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/ShraddhaS007/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/ShraddhaS007/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ShraddhaS007/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1129-longest-string-chain](https://github.com/ShraddhaS007/Leetcode/tree/master/1129-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/ShraddhaS007/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ShraddhaS007/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1508-longest-happy-prefix](https://github.com/ShraddhaS007/Leetcode/tree/master/1508-longest-happy-prefix) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ShraddhaS007/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ShraddhaS007/Leetcode/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/ShraddhaS007/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [1129-longest-string-chain](https://github.com/ShraddhaS007/Leetcode/tree/master/1129-longest-string-chain) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ShraddhaS007/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Monotonic Stack
 |  |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ShraddhaS007/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/ShraddhaS007/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0797-rabbits-in-forest](https://github.com/ShraddhaS007/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [1129-longest-string-chain](https://github.com/ShraddhaS007/Leetcode/tree/master/1129-longest-string-chain) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/ShraddhaS007/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Sorting
 |  |
@@ -144,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ShraddhaS007/Leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShraddhaS007/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0368-largest-divisible-subset](https://github.com/ShraddhaS007/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [1129-longest-string-chain](https://github.com/ShraddhaS007/Leetcode/tree/master/1129-longest-string-chain) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ShraddhaS007/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/ShraddhaS007/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/ShraddhaS007/Leetcode/tree/master/3430-count-days-without-meetings) |
@@ -167,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/ShraddhaS007/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ShraddhaS007/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0943-sum-of-subarray-minimums](https://github.com/ShraddhaS007/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [1129-longest-string-chain](https://github.com/ShraddhaS007/Leetcode/tree/master/1129-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/ShraddhaS007/Leetcode/tree/master/1250-longest-common-subsequence) |
 ## Greedy
 |  |
