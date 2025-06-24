@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/ShraddhaS007/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/ShraddhaS007/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ShraddhaS007/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/ShraddhaS007/Leetcode/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 ## Binary Search
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/ShraddhaS007/Leetcode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ShraddhaS007/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/ShraddhaS007/Leetcode/tree/master/1753-path-with-minimum-effort) |
+| [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/ShraddhaS007/Leetcode/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/ShraddhaS007/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1129-longest-string-chain](https://github.com/ShraddhaS007/Leetcode/tree/master/1129-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/ShraddhaS007/Leetcode/tree/master/1250-longest-common-subsequence) |
+| [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/ShraddhaS007/Leetcode/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 ## Greedy
 |  |
 | ------- |
@@ -278,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/ShraddhaS007/Leetcode/tree/master/0044-wildcard-matching) |
+## Tree
+|  |
+| ------- |
+| [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/ShraddhaS007/Leetcode/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 <!---LeetCode Topics End-->
