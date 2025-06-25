@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShraddhaS007/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ShraddhaS007/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ShraddhaS007/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0130-surrounded-regions](https://github.com/ShraddhaS007/Leetcode/tree/master/0130-surrounded-regions) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ShraddhaS007/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShraddhaS007/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/ShraddhaS007/Leetcode/tree/master/0239-sliding-window-maximum) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/ShraddhaS007/Leetcode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/ShraddhaS007/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/ShraddhaS007/Leetcode/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/ShraddhaS007/Leetcode/tree/master/0744-network-delay-time) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/ShraddhaS007/Leetcode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/ShraddhaS007/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/ShraddhaS007/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/ShraddhaS007/Leetcode/tree/master/0733-flood-fill) |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/ShraddhaS007/Leetcode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/ShraddhaS007/Leetcode/tree/master/0547-number-of-provinces) |
 | [1753-path-with-minimum-effort](https://github.com/ShraddhaS007/Leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Heap (Priority Queue)
@@ -90,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ShraddhaS007/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ShraddhaS007/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/ShraddhaS007/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0130-surrounded-regions](https://github.com/ShraddhaS007/Leetcode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/ShraddhaS007/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ShraddhaS007/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/ShraddhaS007/Leetcode/tree/master/1036-rotting-oranges) |
